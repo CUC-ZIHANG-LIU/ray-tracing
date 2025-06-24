@@ -13,19 +13,6 @@
   </a>
 </p>
 
-<!-- PROJECT LOGO -->
-
-    <a href="https://github.com/CUC-ZIHANG-LIU/ray-tracing/"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
-    <a href="#">查看Demo</a>
-    ·
-    <a href="https://github.com/CUC-ZIHANG-LIU/ray-tracing/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/CUC-ZIHANG-LIU/ray-tracing/issues">提出新特性</a>
-  </p>
-</p>
-
 ## 目录
 
 - [关于项目](#关于项目)
