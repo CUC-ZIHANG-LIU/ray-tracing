@@ -3,9 +3,15 @@
 一个基于递归光线追踪策略的光线追踪渲染器。
 
 <!-- PROJECT SHIELDS -->
-
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg?style=flat-square" alt="Python 3.x">
+  <img src="https://img.shields.io/badge/Numpy-%3E%3D1.21.0-important.svg?style=flat-square" alt="Numpy">
+  <img src="https://img.shields.io/badge/Pillow-%3E%3D8.3.1-blueviolet.svg?style=flat-square" alt="Pillow">
+  <img src="https://img.shields.io/badge/tqdm-%3E%3D4.62.3-green.svg?style=flat-square" alt="tqdm">
+  <a href="LICENSE.txt">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT">
+  </a>
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -134,14 +140,6 @@
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Img Shields](https://shields.io)
 - [Choose an Open Source License](https://choosealicense.com)
-
-<!-- links -->
-[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
-[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
 
 
 
