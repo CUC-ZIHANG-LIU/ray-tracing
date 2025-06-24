@@ -3,6 +3,7 @@
 一个基于递归光线追踪策略的光线追踪渲染器。
 
 <!-- PROJECT SHIELDS -->
+<<<<<<< HEAD
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg?style=flat-square" alt="Python 3.x">
   <img src="https://img.shields.io/badge/Numpy-%3E%3D1.21.0-important.svg?style=flat-square" alt="Numpy">
@@ -12,6 +13,11 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT">
   </a>
 </p>
+=======
+
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+>>>>>>> 2ce7f1920802b03ad0c9e47fbca8456cbd4c4819
 
 <!-- PROJECT LOGO -->
 <br />
@@ -141,6 +147,17 @@
 - [Img Shields](https://shields.io)
 - [Choose an Open Source License](https://choosealicense.com)
 
+<<<<<<< HEAD
+=======
+<!-- links -->
+[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
+[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
+[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
+
+>>>>>>> 2ce7f1920802b03ad0c9e47fbca8456cbd4c4819
 
 
 
