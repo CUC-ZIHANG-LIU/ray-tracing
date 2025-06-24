@@ -14,17 +14,7 @@
 </p>
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/CUC-ZIHANG-LIU/ray-tracing/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Python 光线追踪渲染器</h3>
-
-  <p align="center">
-    一个使用Python和Numpy实现的简易光线追踪项目。
-    <br />
     <a href="https://github.com/CUC-ZIHANG-LIU/ray-tracing/"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
